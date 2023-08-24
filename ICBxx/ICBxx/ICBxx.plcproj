@@ -17,7 +17,7 @@
     <Implicit_Jitter_Distribution>{e1d8778f-be54-4abb-9401-aef02bb5232c}</Implicit_Jitter_Distribution>
     <LibraryReferences>{b6697907-3a73-45f8-bfc9-da1ff64bbc33}</LibraryReferences>
     <Company>iMusic AS</Company>
-    <Released>false</Released>
+    <Released>true</Released>
     <Title>ICBxx</Title>
     <ProjectVersion>0.0.1.0</ProjectVersion>
     <LibraryCategories>
