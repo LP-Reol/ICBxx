@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TcPlcObject Version="1.1.0.1" ProductVersion="3.1.4024.12">
+  <DUT Name="ST_ICBxx" Id="{80817cb1-ca27-4d6e-97e0-31e4e28ec4c3}">
+    <Declaration><![CDATA[TYPE ST_ICBxx :
+STRUCT
+	bPresenceDetection 	AT%I* : BIT;
+	bFrequencyDetection AT%I* : BIT;
+	bTemperatureAlarm	AT%I* : BIT;
+	bSwitchingOutput	AT%I* : BIT;
+END_STRUCT
+END_TYPE
+]]></Declaration>
+  </DUT>
+</TcPlcObject>
